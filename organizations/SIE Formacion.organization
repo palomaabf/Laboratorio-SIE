@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1" name="SIE Formacion">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="paloma.bas">
+      <firstName>Paloma</firstName>
+      <lastName>Bas</lastName>
+      <manager>Usuario3</manager>
+      <personalData/>
+      <professionalData>
+        <email>paloma.bas@gmail.com</email>
+      </professionalData>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="lucia.garcia">
+      <firstName>Lucía</firstName>
+      <lastName>García</lastName>
+      <personalData/>
+      <professionalData>
+        <email>lucia.garcia@gmail.com</email>
+      </professionalData>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="pablo.diego">
+      <firstName>Pablo</firstName>
+      <lastName>Diego</lastName>
+      <manager>Usuario1</manager>
+      <personalData/>
+      <professionalData>
+        <email>pablo.diego@gmail.com</email>
+      </professionalData>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="david.suarez">
+      <firstName>David</firstName>
+      <lastName>Suárez</lastName>
+      <personalData/>
+      <professionalData>
+        <email>david.suarez@gmail.com</email>
+      </professionalData>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="nicolas.martinez">
+      <firstName>Nicolás</firstName>
+      <lastName>Martínez</lastName>
+      <personalData/>
+      <professionalData>
+        <email>nico.martinez@gmail.com</email>
+      </professionalData>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jairo.escanez">
+      <firstName>Jairo</firstName>
+      <lastName>Escanez</lastName>
+      <personalData/>
+      <professionalData>
+        <email>jairo.escanez@gmail.com</email>
+      </professionalData>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+  </users>
+  <roles>
+    <role name="Alumno">
+      <displayName>Alumno</displayName>
+    </role>
+    <role name="Profesor">
+      <displayName>Profesor</displayName>
+    </role>
+    <role name="Director">
+      <displayName>Director</displayName>
+    </role>
+  </roles>
+  <groups/>
+  <memberships/>
+</organization:Organization>
