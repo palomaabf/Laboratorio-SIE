@@ -17,17 +17,17 @@
           <cardinalityExpression xmi:type="expression:Expression" xmi:id="_w2Z1fbkfEe2F-JiehO0BHA" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_w2Z1frkfEe2F-JiehO0BHA" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_w2Z1f7kfEe2F-JiehO0BHA" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
-          <formMapping xmi:type="process:FormMapping" xmi:id="_w2Z1gLkfEe2F-JiehO0BHA">
-            <targetForm xmi:type="expression:Expression" xmi:id="_w2Z1gbkfEe2F-JiehO0BHA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+          <formMapping xmi:type="process:FormMapping" xmi:id="_w2Z1gLkfEe2F-JiehO0BHA" type="NONE">
+            <targetForm xmi:type="expression:Expression" xmi:id="_693_QLkgEe2F-JiehO0BHA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_w2Z1grkfEe2F-JiehO0BHA"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_w2Z1g7kfEe2F-JiehO0BHA" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
         </elements>
       </elements>
-      <formMapping xmi:type="process:FormMapping" xmi:id="_w2Z1hLkfEe2F-JiehO0BHA">
-        <targetForm xmi:type="expression:Expression" xmi:id="_w2Z1hbkfEe2F-JiehO0BHA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+      <formMapping xmi:type="process:FormMapping" xmi:id="_w2Z1hLkfEe2F-JiehO0BHA" type="NONE">
+        <targetForm xmi:type="expression:Expression" xmi:id="_693_QbkgEe2F-JiehO0BHA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
       </formMapping>
-      <overviewFormMapping xmi:type="process:FormMapping" xmi:id="_w2Z1hrkfEe2F-JiehO0BHA">
+      <overviewFormMapping xmi:type="process:FormMapping" xmi:id="_w2Z1hrkfEe2F-JiehO0BHA" type="NONE">
         <targetForm xmi:type="expression:Expression" xmi:id="_w2Z1h7kfEe2F-JiehO0BHA" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
       </overviewFormMapping>
       <connections xmi:type="process:SequenceFlow" xmi:id="_w2Z1iLkfEe2F-JiehO0BHA" target="_w2Z1d7kfEe2F-JiehO0BHA" source="_w2Z1c7kfEe2F-JiehO0BHA">
